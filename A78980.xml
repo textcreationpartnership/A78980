@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties proclamation, concerning the Book of common-prayer, and the Directory for publike vvorship. (Given at Oxford, Novemb. 13. 1645.) With some observations thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78980</idno>
+            <idno type="STC">Wing C2563</idno>
+            <idno type="STC">Thomason E309_13</idno>
+            <idno type="STC">ESTC R200415</idno>
+            <idno type="EEBO-CITATION">99861179</idno>
+            <idno type="PROQUEST">99861179</idno>
+            <idno type="VID">158853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158853)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E309[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties proclamation, concerning the Book of common-prayer, and the Directory for publike vvorship. (Given at Oxford, Novemb. 13. 1645.) With some observations thereupon.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I),</author>
+                  <author>Westminster Assembly (1643-1652)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the University: and re-printed at London, by R. Austin.,</publisher>
+                  <pubPlace>Oxford, [i.e. London] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is false. "This is a defence of the Directory against the King's Proclamation, and so there never was an Oxford edition of this piece, but only of the Proclamation itself"--Madan.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Vide ye folio printed at Oxon the 13 No: 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Directory for the publique worship of God throughout the three kingdoms of England, Scotland, and Ireland --  Early works to 1800.</term>
+               <term>Public worship --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158853:1" rendition="simple:additions"/>
+            <p> HIS MAJESTIES Proclamation, CONCERNING The Book of Common-Prayer, <hi>AND</hi> The DIRECTORY for publike VVorſhip. (Given at Oxford, Novemb. 13. 1645.) <hi>With ſome Obſervations thereupon.</hi>
+            </p>
+            <figure>
+               <figDesc>royal coat of arms</figDesc>
+               <p>C R</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to the Univerſity: and Re-printed at London, by <hi>R. Auſtin.</hi> 1645.</p>
+            <pb facs="tcp:158853:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158853:2"/>
+            <head>By the King.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a printed Paper, dated the third of January laſt paſt, intituled, <hi>An Ordinance of Parliament for taking away the Book of Common Prayer, and for e<g ref="char:EOLhyphen"/>ſtabliſhing and putting in execution of the Directory for the publike Worſhip of God,</hi> it is ſaid to be ordai<g ref="char:EOLhyphen"/>ned, amongſt other things, That the Book of Com<g ref="char:EOLhyphen"/>mon Prayer ſhould not remaine, nor be from thence uſed in any Church, or Chappell, or place of publike Worſhip, with<g ref="char:EOLhyphen"/>in the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales;</hi> and that the Directory for publike Worſhip in that Paper ſet forth, ſhould be from thenceforth uſed, purſued, and obſerved in all Exerciſes of publike Worſhip of God in every Congregation, Church, Chappell, and place of publike Worſhip. And by another printed Paper, dated the 23. day of Auguſt laſt paſt, intituled. <hi>An Ordinance of the Lords and Commons aſſembled in Parliament, for the more effectuall putting in execution the Directory for publike Worſhip,</hi> &amp;c. particular Directions are ſet downe for the diſperſing, publiſhing, and uſe of the ſaid Directory in all Pariſhes, Chappells, and Donatives; for the calling in and ſuppreſ<g ref="char:EOLhyphen"/>ſing of all Books of Common Prayer, on the ſeverall forfeitures and penalties to be leavied and impoſed upon conviction, before Juſtices of Aſſize, or of Oyer and Terminer, and of the Peace, as by the ſaid two printed Papers may appear. And taking into our conſideration, that the Common Prayer, which is indeavoured thus to be aboliſhed, was compiled in the times of Reformation, by the moſt learned and pious men of that age, and defended and continued with the Martyrdome of many, and was firſt eſtabliſhed by Act of Parliament in the time of King <hi>Edward the ſixth,</hi> and never repealed nor laid aſide, ſave one<g ref="char:EOLhyphen"/>ly in that ſhort time of Queene <hi>Maries</hi> Reigne, and upon the returne of Popery and ſuperſtition: And in the firſt yeare of Queene <hi>Elizabeth,</hi> it was againe revived and eſtabliſhed by Act of Par<g ref="char:EOLhyphen"/>liament, and the repeale of it then declared by the whole Parlia<g ref="char:EOLhyphen"/>ment, to have beene to the great decay of the due honour of
+<pb facs="tcp:158853:3"/> God, and diſcomfort of the Profeſſours of the truth of Chriſtian Religion, and ever ſince it hath been uſed and obſerved for above four<g ref="char:EOLhyphen"/>ſcore yeares together in the beſt times of peace and plentie that ever this Kingdome enjoyed, and that it containes in it an excellent forme of worſhip and ſervice of God, grounded upon the holy Scriptures, is a ſingular meanes and help to devotion in all Congregations, and that, or ſome other of the like forme ſimply neceſſarie in thoſe many Con<g ref="char:EOLhyphen"/>gregations which cannot otherwiſe be ſupplyed by learned and able men, and keeps a uniformitie in the Church of England. And that the Directorie, which is ſought to be introduced, is a m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ans to open the way, and to give the liberite to all ignorant, factious, and evill men, to broach their owne fancies and conceits, be they never ſo wicked or er<g ref="char:EOLhyphen"/>roneous, and to miſlead people into ſin and Rebellion, and to utter thoſe things, even in that which they make for long prayer in their Congregations in Gods preſence, which no conſcientious man can aſ<g ref="char:EOLhyphen"/>ſent, or ſay <hi>Amen</hi> to: And be the Miniſter never ſo pious and religi<g ref="char:EOLhyphen"/>ous, yet it will break that uniformitie which hitherto hath been held in Gods ſervice, and be a meanes to raiſe factions and diviſions in the Church, and thoſe many Congregations in this Kingdome, where a<g ref="char:EOLhyphen"/>ble and religious Miniſters cannot be maintained, muſt be left deſtitute of all help and meanes for the publike worſhip and ſervice of God. And obſerving likewiſe, that no reaſon is given for this <hi>Inconveniencie alleaged in the generall,</hi> and whether pride and avarice be not the ground, whether Rebellion and deſtruction of Monarchy be not the intention of ſome, and Sacriledge and the Churches poſſeſſions the aimes and hopes of others, and theſe new Directories the meanes to prepare and draw the people in for all, We leave to him who ſearches and knowes the hearts of men. And taking into Our conſideration, that this alteration is introduced by colour of Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, made without and againſt Our conſent, and againſt an expreſſe Act of Parliament ſtill in force, and the ſame Ordinances of Parlia<g ref="char:EOLhyphen"/>ment made as perpetuall binding Lawes, inflicting penalties and pu<g ref="char:EOLhyphen"/>niſhments, which were never (before theſe times) ſo much as preten<g ref="char:EOLhyphen"/>ded to have been the uſe or power of Ordinances of Parliament, with<g ref="char:EOLhyphen"/>out any expreſſe Act of Parliament, to which Wee are to be parties. Now leſt Our ſilence ſhould be interpreted by ſome as connivence or indifferencie in Vs, in a matter ſo highly concerning the worſhip and ſervice of God, the peace and unitie of the Church and State, and the eſtabliſhed Lawes of the Kingdome, We have therefore thought fit to
+<pb facs="tcp:158853:3"/> publiſh Our Proclamation, and do hereby require and command all and ſingular Miniſters in all Cathedrall and Pariſh Churches, and other pla<g ref="char:EOLhyphen"/>ces of publike worſhip, within our Kingdome of England, or Domi<g ref="char:EOLhyphen"/>nion of Wales, and all other to whom it ſhall appertaine, That the ſaid Book of Common Prayer be kept and uſed in all Churches, Chappels, and places of publike worſhip, according to the ſaid Statute made in that behalfe, in the ſaid firſt yeare of the late Queen <hi>Elizabeth,</hi> and that the ſaid Directorie be in no ſort admitted, received, or uſed, the ſame pretended Ordinances, or any thing in them contained to the contrarie notwithſtanding. And We do hereby let them know, that whenſoever it ſhall pleaſe God to reſtore Vs to peace, the Lawes to their due courſe, wherin we doubt not of his aſſiſtance in his good time, We ſhall require a ſtrict account and proſecution againſt the Breakers of the ſaid Law, according to the ſcope thereof: And in the meane time, in ſuch places where We ſhall come and find the Book of Com<g ref="char:EOLhyphen"/>mon Prayer ſuppreſſed and laid aſide, and the Directorie introduced, We ſhall account all thoſe that ſhall be Aiders, Actors, or Contrivers therein, to be perſons diſ-affected to the Religion and Lawes eſtabli<g ref="char:EOLhyphen"/>ſhed, and this they muſt expect, beſides the great loſſe they ſhall ſu<g ref="char:EOLhyphen"/>ſtaine, by ſuffering themſelves to be deprived of the uſe and comfort of the ſaid Book.</p>
+            <p>
+               <hi>Given at our Court at Oxford the thirteenth day of November; in the one and twentieth yeare of Our Reigne.</hi>
+            </p>
+            <div type="part">
+               <head>Obſervations.</head>
+               <p>OVr preſent breaches call out to everie honeſt Chriſtian to become a continuall Centinell, watching againſt the inceſſant aſſaults of ſuch, whoſe endeavours have been, and ſtill are, to bring utter ruine upon this Kingdome: His Majeſties private Councellours, although they have been for ſome ſpace, by reaſon of the ſeverall victories obtained, (through the bleſſing of the Almightie) by the Parliaments Forces over the Kings Army, yet after a long progreſſe being returned to Ox<g ref="char:EOLhyphen"/>ford (the old Forge of their invectives againſt the Parliament) it ſeems they thought good to try one ſtratagem more to work upon the peo<g ref="char:EOLhyphen"/>ple, by publiſhing the above-mentioned Proclamation, pretending it in his Majeſties name, upon which I thought fit to publiſh the follow<g ref="char:EOLhyphen"/>ing Obſervations, leſt many too-credulous people might be enſnared by the ſpecious and flouriſhing pretences the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eof (eſpecially upon the
+<pb facs="tcp:158853:4"/> under-hand divulging of it (by many of the Malignants in London, and other places) the ſcope of it is againſt the Directorie, as it is eſta<g ref="char:EOLhyphen"/>bliſhed by two Ordinances of Parliament, and therein would per<g ref="char:EOLhyphen"/>ſwade the people againe to ſet up the Book of Common Prayer, which they know was much idolized in England.</p>
+               <p>The firſt Argument uſed to infuſe this into the peoples heads (for I ſhall briefly examine the particulars of the Proclamation as they lye) is, <hi>That it was compiled in the times of Reformation, &amp;c.</hi>
+               </p>
+               <p>1 <hi>Obſ.</hi> The firſt Reformers of Religion doubtleſſe did never in<g ref="char:EOLhyphen"/>tend the uſe of the Book of Common Prayer further than to be an help in the want or weakneſſe of a Miniſters gifts, but that Miniſters and people ſhould be ſtill ſtrictly tied to the uſe thereof is ſinfull and unlawfull, for the abilitie to offer up the peoples wants in prayer is part of the Miniſteriali Office as well as preaching, 1 <hi>Cor.</hi> 12. 10. This he cannot do by reading in a Book deviſed by another; beſides, the ſhadowes of darkneſſe now flying away, and the truth more fully and gloriouſly appearing, it is now as ſhamefull to uſe, as it were again to revive the Book of Homilies.</p>
+               <p>Procl. <hi>And defended and continued with the martyrdome of many.</hi>
+               </p>
+               <p>2 <hi>Obſ.</hi> Though many holy and zealous Martyrs then died for the Proteſtant Religion, yet it can never be proved that any ſuffered parti<g ref="char:EOLhyphen"/>cularly in maintenance of the Common Prayer, ſince all know it is (for a great part) but the Maſſe in Engliſh.</p>
+               <p>Procl. <hi>It was firſt eſtabliſhed by Act of Parliament in the time of King</hi> Edward <hi>the ſixth, &amp;c.</hi>
+               </p>
+               <p>3 <hi>Obſ.</hi> Beſides, the palpable difference between the Common Prayer in <hi>Edward</hi> the ſixth his time, and that afterwards ſet forth, yet (as is expreſſed <hi>Obſ.</hi> 1.) Though the Liturgie, with the ceremonies be<g ref="char:EOLhyphen"/>longing to it, were then <hi>(tollerabiles ineptiae)</hi> now it is time to leave off thoſe and other things, which wee had formerly by tradition from the Papiſts.</p>
+               <p>Procl. <hi>It hath been uſed and obſerved for above eighty yeares toge<g ref="char:EOLhyphen"/>ther, &amp;c.</hi>
+               </p>
+               <p>4 <hi>Obſ.</hi> The long uſe of anie thing doth not make it lawfull, they might then have pleaded a far longer preſcription of time for the con<g ref="char:EOLhyphen"/>tinuance of Papacy, and then when ſhould we have had a Reforma<g ref="char:EOLhyphen"/>tion? The like may be ſaid for outward peace and plenty, which a<g ref="char:EOLhyphen"/>bounded as much in times of Poperie as ever.</p>
+               <p>Procl. <hi>It is grounded upon holy Scriptures, &amp;c.</hi>
+               </p>
+               <pb facs="tcp:158853:4"/>
+               <p>5 <hi>Obſ.</hi> It containes in it many falſe and corrupt tranſlations of ho<g ref="char:EOLhyphen"/>ly Scripture, with additions to it, or leavings out, and abſtractions from it. Take onely one inſtance for many, <hi>Pſal</hi> 105. 28. the Service-Book hath, <hi>They were not obedient to his Word;</hi> In the Text thus: <hi>They were not diſobedient.</hi>
+               </p>
+               <p>Procl. <hi>The Directory which is ſought to be introduced is a meanes to open the way, &amp;c. to all ignorant Factions and evill men to broach their own fancies.</hi>
+               </p>
+               <p>6 <hi>Obſ.</hi> Common experience (bleſſed be God) now manifeſts the contrary to all the world, England having at this preſent in the places within the power of the Parliament, more learned, pious, and able Mi<g ref="char:EOLhyphen"/>niſters then ever; They having now the opportunity to exerciſe and increaſe their guifts in prayer and preaching, whereas formerly the Common-Prayer was a meanes to nuzzle up a non-preaching and ig<g ref="char:EOLhyphen"/>norant Miniſtery, were his Majeſtie perſwaded but to come up to London, he would perceive a great difference between the Miniſters here, and thoſe Epiſcopall Sycophants, which are now in ſuch favour with him. And <hi>for able and religious Miniſters</hi> the great care of the Parliament is to ſtore all the dark places of this Kingdome with them.</p>
+               <p>Procl. <hi>It will breake the uniformity, which hitherto hath beene held, &amp;c.</hi>
+               </p>
+               <p>7 <hi>Obſ.</hi> What greater ſtumbling-block was there in all times both in the times of Queen <hi>Elizabeth,</hi> and King <hi>James,</hi> and the beginning of his now Majeſties Reigne, to make non-Conformiſts, then the generall impoſing of the Common-Prayer to be everie where publikely read.</p>
+               <p>Procl. <hi>Inconveniencie alledged in the generall.</hi>
+               </p>
+               <p>8 <hi>Obſ.</hi> The words uſed in the Ordinance are <hi>manifold inconvenien<g ref="char:EOLhyphen"/>cies,</hi> which in regard of the numerouſneſſe of them were too many for to be particularized, both the manner of it as well as the matter, was offenſive to tender conſciences, which his Majeſtie in ſome Declarati<g ref="char:EOLhyphen"/>ons expreſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es his deſire ſo much to keep from offence; it brought the Land generally to Atheiſme, groſſe ſuperſtition, profaneneſſe, igno<g ref="char:EOLhyphen"/>rance of God and his wayes; the people in many places where they had it moſt frequent, were ſo ſuperſtitious and ignorant, that they learned not all the dayes of their life to open their ſoules before the Lord in prayer.</p>
+               <p>9 <hi>Obſ.</hi> For thoſe charges of Rebellion, Sacriledge, the deſtruction of Monarchy, &amp;c. The eſtabliſhing of the Directorie doubtleſſe will occaſion none of theſe, we have had ſome experience of it at preſent,
+<pb facs="tcp:158853:5"/> and King <hi>James</hi> himſelf who defended Monarchy in ſeverall Treatiſes, thought it no diminution for him and the former Kings that ruled there to maintaine the government of the Church of Scotland (who uſe a Di<g ref="char:EOLhyphen"/>rectorie) and what commotions and differences happened lately in that Kingdome by the impoſing the Common Prayer on them is freſh in memory, nor was the continuance of it without much diſturbance here; And for the Churches poſſeſſions which were formerly devou<g ref="char:EOLhyphen"/>red by a companie of lazie Prelates, deboyſt Prieſts, idle ſinging Boys, Chanters, &amp;c. they are now by the vigilancy of the Parliament diſpo<g ref="char:EOLhyphen"/>ſed of for the maintaining of a pious, learned, and preaching Miniſtery, and for the ſetting up of Lectures, more for the edification of the peo<g ref="char:EOLhyphen"/>ple then all the popiſh trumperies whatſoever.</p>
+               <p>Procl. <hi>This alteration is introduced by colour of Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, &amp;c.</hi>
+               </p>
+               <p>10 <hi>Obſ.</hi> The Parliament have a power (upon the Kings with<g ref="char:EOLhyphen"/>drawing himſelfe from them) to order and ordaine all ſuch matters as ſhall be for the ſafetie of the Realme, it was ſo by a known Law, and ſo wiſely eſtabliſhed in <hi>Edward</hi> the firſt dayes, the right of the people to be ſummoned, <hi>ad tractandum ordinandum faciendum approbandum</hi> in all things appertaining to the people, and this as then was not prejudi<g ref="char:EOLhyphen"/>ciall to the King, why ſhould the Kings Proclamation now abreviate or annull the ſame? In inferiour Courts the Judges are ſo Councellours for the King as that the King may not countermand their judgements.</p>
+               <p>Procl. <hi>Never before theſe times ſo much as pretended to have beene the uſe or power of Parliament, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Obſ.</hi> There are divers preſidents upon Record of greater things that have been done by former Parliaments then ever yet have been by this, ſuch as theſe: <hi>Anno</hi> 7. and 8. <hi>H.</hi> 4. <hi>Numb.</hi> 31. Councellours appoin<g ref="char:EOLhyphen"/>ted by authority of Parliament, <hi>An.</hi> 1. <hi>H.</hi> 6. <hi>Numb.</hi> 15. The <hi>Protector &amp; Defenſor Regni,</hi> appointed by Parliament, <hi>Numb.</hi> 16. Privie Coun<g ref="char:EOLhyphen"/>cellours; in <hi>E.</hi> 3. time, the whole Navie diſpoſed of by Parliament, in other times the Militia, Caſtles, and Forts, diſpoſed of by Parliament.</p>
+               <p>For a concluſion I will make that apologie which <hi>Plutarch</hi> obſerves in the life of <hi>Brutus,</hi> That though <hi>Pompey</hi> had been the cauſe of his fa<g ref="char:EOLhyphen"/>thers death, yet hee judging <hi>Pompey's</hi> cauſe to be better than <hi>Caeſars,</hi> adheres to <hi>Pompey's</hi> partie, preferring the publike good before his pri<g ref="char:EOLhyphen"/>vate ends. So although the King be deare unto mee, yet the publike good is enore deare. <hi>Amicus Plato, amicus Ariſtoteles, ſed magis amica veritas.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
